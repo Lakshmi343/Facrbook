@@ -1,0 +1,136 @@
+.header{
+    background: #3b5998;
+    width:100%;
+    height: 85px;
+}
+
+body{
+    margin: 0;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+
+}
+
+.logo{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+}
+
+.login{
+    width: 50%;
+    float: left;
+}
+
+.logo-text{
+    color: #ffff;
+    font-size:35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 170px;
+}
+
+.login-label{
+    color: #ffff;
+    font-size: 11px;
+}
+
+.login-controls{
+    margin-left: 117px;
+}
+
+.login{
+    padding-top: 10px;
+}
+
+.forgotten{
+    color: #ffff;
+    font-size: 11px;
+    text-decoration: none;
+    color: #9cb4d8;
+}
+
+.sub-btn{
+    background-color: #4267b2;
+    color: #ffff;
+    height:20px;
+    border-color: #29487d;
+    cursor: pointer;
+}
+
+.sub-btn:hover{
+    background-color: #0f2e6c;
+    border-color: #021434;
+}
+
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 134px;
+    padding-top: 52px;
+}
+
+.right-section{
+    width: 41%;
+    float: left;
+}
+
+.main-body{
+    background: linear-gradient(white,#D3D8E8);
+    height: 576px;
+}
+
+.image{
+    height: 295px;
+    width: 581px;
+    
+}
+
+.para{
+    font-weight: bold;
+    font-size: 21px;
+    color: #021434;
+}
+
+.form-label{
+    height: 32px;
+    font-size: 14px;
+}
+
+.long-label{
+    width:361px;
+    height: 32px;
+    font-size: 14px;
+}
+
+.birthday{
+    font-weight: bold;
+    color: #808080;
+    font-size: 14px;
+}
+
+.signup-para{
+    font-size: 12px;
+    color: #808080;
+    font-weight: bold;
+}
+
+.signup-label{
+    color: #3b5998;
+
+}
+
+.radio{
+    font-size: 14px;
+}
+
+.btn{
+    width: 190px;
+    height: 38px;
+    border-radius: 5px;
+    font-weight: bold;
+    background: #00a32b;
+    color: white;
+    border-color: green
+}
+
